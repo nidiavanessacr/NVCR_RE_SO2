@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "123be249dc2d18d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5edb1dc4a22670ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21cc5b3e8d59cfcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas_Operativos_II/U1/25-29_Agosto/26-08-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26-08-25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c88d9b530ff04d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "998975f5f1684062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94f81ee561558df6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0cb76b1811b26964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ed4129503574c5b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88e8ac188edefaf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac73ee80a9a7022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dfabccb8e622cf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistemas_Operativos_II/U1/25-29_Agosto/26-08-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 26-08-25"
+            }
+          },
+          {
+            "id": "a70d87b09f60be2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistemas_Operativos_II/U1/25-29_Agosto/26-08-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 26-08-25"
+            }
+          },
+          {
+            "id": "0e8060d641ead18b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "fb3f1b065683ec10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistemas_Operativos_II/U1/25-29_Agosto/26-08-25.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 26-08-25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "21cc5b3e8d59cfcd",
+  "lastOpenFiles": [
+    "Redes_Emergentes/U1/25-29_Agosto/26-08-25.md",
+    "Sistemas_Operativos_II/U1/25-29_Agosto/26-08-25.md",
+    "Sistemas_Operativos_II/U1/25-29_Agosto/25-08-25.md",
+    "Redes_Emergentes/U1/25-29_Agosto/25-08-25.md",
+    "2025-08-25.md",
+    "Sistemas_Operativos_II/U1/25-29_Agosto",
+    "Sistemas_Operativos_II/U1",
+    "Bienvenido.md",
+    "Redes_Emergentes/U1/25-29_Agosto",
+    "Sin nombre/desktop.ini",
+    "Sistemas_Operativos_II",
+    "Redes_Emergentes/U1",
+    "Redes_Emergentes",
+    "desktop.ini"
+  ]
+}
