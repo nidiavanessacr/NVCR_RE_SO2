@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21cc5b3e8d59cfcd",
+            "id": "b6b29c664179b6fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas_Operativos_II/U1/01-05_Septiembre/02-09-25.md",
+                "file": "Redes_Emergentes/U3/Practica 3.2 Explorador de la red algorand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-09-25"
+              "title": "Practica 3.2 Explorador de la red algorand"
+            }
+          },
+          {
+            "id": "c0cc859d8ab0049a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas_Operativos_II/U3/15-10-25/Tarea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tarea"
             }
           }
         ]
@@ -169,45 +183,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "21cc5b3e8d59cfcd",
+  "active": "b6b29c664179b6fc",
   "lastOpenFiles": [
-    "Pasted image 20250902191128.png",
-    "Redes_Emergentes/U1/01-05_Septiembre/02-09-25.md",
-    "WhatsApp Image 2025-09-02 at 10.33.43 AM.jpeg",
-    "Redes_Emergentes/U1/01-05_Septiembre/03-09-25.md",
-    "Sistemas_Operativos_II/U1/01-05_Septiembre/03-09-25.md",
-    "Sistemas_Operativos_II/U1/01-05_Septiembre/02-09-25.md",
-    "Redes_Emergentes/U1/25-29_Agosto/27-08-25.md",
-    "Redes_Emergentes/U1/25-29_Agosto/28-08-25.md",
-    "Redes_Emergentes/U1/25-29_Agosto/26-08-25.md",
-    "Redes_Emergentes/U1/01-05_Septiembre/01-09-25.md",
-    "Redes_Emergentes/U1/25-29_Agosto/25-08-25.md",
-    "Redes_Emergentes/Temario.md",
-    "Sistemas_Operativos_II/U1/25-29_Agosto/27-08-25.md",
-    "Sistemas_Operativos_II/U1/25-29_Agosto/26-08-25.md",
-    "Pasted image 20250902082031.png",
-    "Sistemas_Operativos_II/U1/25-29_Agosto/25-08-25.md",
-    "Sistemas_Operativos_II/U1/01-05_Septiembre/01-09-25.md",
-    "Sistemas_Operativos_II/U1/01-05_Septiembre",
-    "Redes_Emergentes/U1/01-05_Septiembre",
-    "Redes_Emergentes/U1/Sin título.md",
-    "Sin nombre/desktop.ini",
-    "Sin nombre",
-    "README.md",
-    "Pasted image 20250826205655.png",
-    "Pasted image 20250826205634.png",
-    "Pasted image 20250826205204.png",
-    "Pasted image 20250826205135.png",
-    "Pasted image 20250826205107.png",
-    "Pasted image 20250826205040.png",
-    "Pasted image 20250826204723.png",
-    "2025-08-25.md",
-    "Sistemas_Operativos_II/U1/25-29_Agosto",
-    "Sistemas_Operativos_II/U1",
-    "Bienvenido.md",
-    "Redes_Emergentes/U1/25-29_Agosto",
-    "Sistemas_Operativos_II",
-    "Redes_Emergentes/U1",
-    "Redes_Emergentes"
+    "Pasted image 20251112180153.png",
+    "Pasted image 20251112180111.png",
+    "Captura de pantalla 2025-10-21 102828.png",
+    "Captura de pantalla 2025-10-21 103239.png",
+    "Captura de pantalla 2025-10-21 112426.png",
+    "Redes_Emergentes/U3/Practica 3.1 Propuesta de aplicación blockchain.md",
+    "Redes_Emergentes/U3/Practica 3.2 Explorador de la red algorand.md",
+    "Redes_Emergentes/U3/Tarea 3.3 Mapas conceptuales.md",
+    "Pasted image 20251112175227.png",
+    "Pasted image 20251112175214.png",
+    "Redes_Emergentes/U3/Blockchain.md",
+    "Pasted image 20251112174937.png",
+    "Pasted image 20251112174648.png",
+    "Redes_Emergentes/U3/Tarea 3.2 Conceptos de la unidad.md",
+    "Redes_Emergentes/U3/07-10_Octubre/07-10-25.md",
+    "Redes_Emergentes/U3/07-10_Octubre/08-10-25.md",
+    "Redes_Emergentes/U3/Tarea 3.1 Línea del tiempo de Blockchain.md",
+    "WhatsApp Image 2025-11-12 at 5.32.51 PM 1.jpeg",
+    "WhatsApp Image 2025-11-12 at 5.32.51 PM (1).jpeg",
+    "notas.md",
+    "Guía apps.md",
+    "Sistemas_Operativos_II/U3/07-10_Octubre/07-10-25.md",
+    "Sin título.md",
+    "tecno.md",
+    "xd.md",
+    "Sistemas_Operativos_II/U3/07-10_Octubre/08-10-25.md",
+    "Sistemas_Operativos_II/U3/15-10-25/15-10-25.md",
+    "Sistemas_Operativos_II/U3/15-10-25/Tarea.md",
+    "Redes_Emergentes/U3/14/SDK.md",
+    "Sistemas_Operativos_II/U3/20-10-25/Smart Contratcs y Blockchain.md",
+    "Sistemas_Operativos_II/U3/20-10-25",
+    "Sistemas_Operativos_II/U2/08-12_Septiembre/11-09-25.md",
+    "Sistemas_Operativos_II/U2/Guía.md",
+    "Sistemas_Operativos_II/U3/15-10-25",
+    "Redes_Emergentes/U3/14",
+    "Sistemas_Operativos_II/CONCEPTOS BÁSICOS.md",
+    "Sistemas_Operativos_II/U2/Tarea 2.2- Enpass.md",
+    "Sistemas_Operativos_II/U2/Tarea 2.2.md",
+    "Sistemas_Operativos_II/U2/Tarea 2.1- Docker.md",
+    "Sistemas_Operativos_II/U3/07-10_Octubre",
+    "Redes_Emergentes/U3/07-10_Octubre",
+    "Sistemas_Operativos_II/Sin nombre",
+    "Sistemas_Operativos_II/U3",
+    "Redes_Emergentes/U3",
+    "Redes_Emergentes/U2/Practica2",
+    "Sistemas_Operativos_II/U2/08-12_Septiembre"
   ]
 }
