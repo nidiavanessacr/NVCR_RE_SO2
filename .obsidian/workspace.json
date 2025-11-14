@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6b29c664179b6fc",
+            "id": "e464fa962d35f563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas_Operativos_II/U3/Tarea 3.3 Aplicación en django para realizar movimientos en blockchain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tarea 3.3 Aplicación en django para realizar movimientos en blockchain"
+            }
+          },
+          {
+            "id": "de592f6ff2fbdf74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Practica 3.2 Explorador de la red algorand"
-            }
-          },
-          {
-            "id": "c0cc859d8ab0049a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas_Operativos_II/U3/15-10-25/Tarea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tarea"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas_Operativos_II/U1/25-29_Agosto/26-08-25.md",
+                "file": "guia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 26-08-25"
+              "title": "Enlaces entrantes de guia"
             }
           },
           {
@@ -183,47 +183,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b6b29c664179b6fc",
+  "active": "e464fa962d35f563",
   "lastOpenFiles": [
+    "Redes_Emergentes/U3/Practica 3.2 Explorador de la red algorand.md",
+    "Sistemas_Operativos_II/U3/Tarea 3.3 Aplicación en django para realizar movimientos en blockchain.md",
+    "Captura de pantalla 2025-10-15 093750.png",
+    "Captura de pantalla 2025-10-15 094316.png",
+    "Captura de pantalla 2025-10-15 094337.png",
+    "Captura de pantalla 2025-10-15 094455.png",
+    "Captura de pantalla 2025-10-15 094610.png",
+    "Captura de pantalla 2025-10-20 103546.png",
+    "Sistemas_Operativos_II/U3/Tarea 3.2 Resumen de visita.md",
+    "Sistemas_Operativos_II/U3/Tarea 3.1 Principales tecnologías de blockchain.md",
+    "Sistemas_Operativos_II/U3/07-10_Octubre/07-10-25.md",
+    "Redes_Emergentes/U3/Tarea 3.3 Mapas conceptuales.md",
+    "Sistemas_Operativos_II/U3/20-10-25/Smart Contratcs y Blockchain.md",
+    "Sistemas_Operativos_II/U3/15-10-25/Tarea.md",
+    "Sistemas_Operativos_II/U3/15-10-25/15-10-25.md",
+    "Sistemas_Operativos_II/U3/07-10_Octubre/08-10-25.md",
+    "guia.md",
+    "Redes_Emergentes/U3/14/SDK.md",
+    "guía.md",
+    "Redes_Emergentes/U3/Tarea 3.2 Conceptos de la unidad.md",
+    "Redes_Emergentes/U3/Tarea 3.1 Línea del tiempo de Blockchain.md",
+    "Redes_Emergentes/U3/Practica 3.1 Propuesta de aplicación blockchain.md",
+    "Redes_Emergentes/U3/Blockchain.md",
+    "Redes_Emergentes/U3/07-10_Octubre/08-10-25.md",
+    "Redes_Emergentes/U3/07-10_Octubre/07-10-25.md",
     "Pasted image 20251112180153.png",
     "Pasted image 20251112180111.png",
     "Captura de pantalla 2025-10-21 102828.png",
     "Captura de pantalla 2025-10-21 103239.png",
-    "Captura de pantalla 2025-10-21 112426.png",
-    "Redes_Emergentes/U3/Practica 3.1 Propuesta de aplicación blockchain.md",
-    "Redes_Emergentes/U3/Practica 3.2 Explorador de la red algorand.md",
-    "Redes_Emergentes/U3/Tarea 3.3 Mapas conceptuales.md",
-    "Pasted image 20251112175227.png",
-    "Pasted image 20251112175214.png",
-    "Redes_Emergentes/U3/Blockchain.md",
-    "Pasted image 20251112174937.png",
-    "Pasted image 20251112174648.png",
-    "Redes_Emergentes/U3/Tarea 3.2 Conceptos de la unidad.md",
-    "Redes_Emergentes/U3/07-10_Octubre/07-10-25.md",
-    "Redes_Emergentes/U3/07-10_Octubre/08-10-25.md",
-    "Redes_Emergentes/U3/Tarea 3.1 Línea del tiempo de Blockchain.md",
-    "WhatsApp Image 2025-11-12 at 5.32.51 PM 1.jpeg",
-    "WhatsApp Image 2025-11-12 at 5.32.51 PM (1).jpeg",
     "notas.md",
     "Guía apps.md",
-    "Sistemas_Operativos_II/U3/07-10_Octubre/07-10-25.md",
-    "Sin título.md",
     "tecno.md",
     "xd.md",
-    "Sistemas_Operativos_II/U3/07-10_Octubre/08-10-25.md",
-    "Sistemas_Operativos_II/U3/15-10-25/15-10-25.md",
-    "Sistemas_Operativos_II/U3/15-10-25/Tarea.md",
-    "Redes_Emergentes/U3/14/SDK.md",
-    "Sistemas_Operativos_II/U3/20-10-25/Smart Contratcs y Blockchain.md",
     "Sistemas_Operativos_II/U3/20-10-25",
     "Sistemas_Operativos_II/U2/08-12_Septiembre/11-09-25.md",
     "Sistemas_Operativos_II/U2/Guía.md",
     "Sistemas_Operativos_II/U3/15-10-25",
     "Redes_Emergentes/U3/14",
-    "Sistemas_Operativos_II/CONCEPTOS BÁSICOS.md",
-    "Sistemas_Operativos_II/U2/Tarea 2.2- Enpass.md",
-    "Sistemas_Operativos_II/U2/Tarea 2.2.md",
-    "Sistemas_Operativos_II/U2/Tarea 2.1- Docker.md",
     "Sistemas_Operativos_II/U3/07-10_Octubre",
     "Redes_Emergentes/U3/07-10_Octubre",
     "Sistemas_Operativos_II/Sin nombre",
